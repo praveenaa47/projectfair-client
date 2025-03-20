@@ -4,6 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { BrowserRouter } from 'react-router-dom'
 import './bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import ContextShare from '../ContextAPI/ContextShare.jsx'
 import TokenAuth from '../ContextAPI/TokenAuth.jsx'
 

@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Dashboard from './pages/Dashboard'
 import Projects from './pages/Projects'
 import Auth from './pages/Auth'
-import Footer from './components/Footer'
+import Footer from './comp/Footer'
 import { useContext } from 'react'
 import { TokenAuthContext } from '../ContextAPI/TokenAuth'
 

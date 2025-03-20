@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Col, Row } from 'react-bootstrap'
-import MyProjects from '../components/Myprojects'
-import Profile from '../components/Profile'
-import Header from '../Components/Header'
+import MyProjects from '../comp/Myprojects'
+import Profile from '../comp/Profile'
+import Header from '../comp/Header'
 
 
 

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Header from '../Components/Header'
+import Header from '../comp/Header'
 import { Col, Row } from 'react-bootstrap'
 import ProjectCard from './ProjectCard'
 import { getAllProjectAPI } from '../services/allAPI'

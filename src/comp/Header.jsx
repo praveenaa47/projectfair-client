@@ -5,7 +5,9 @@ import { TokenAuthContext } from '../../ContextAPI/TokenAuth'
 
 
 
-function Header({insideDashboard}) {
+
+
+const Header = ({insideDashboard}) => {
   const navigate= useNavigate()
   const{isAuthorized,setIsAuthorized}=useContext(TokenAuthContext)
 
@@ -33,4 +35,6 @@ function Header({insideDashboard}) {
   )
 }
 
+
 export default Header
+

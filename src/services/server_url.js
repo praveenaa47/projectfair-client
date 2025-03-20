@@ -1,3 +1,3 @@
-export const server_url = 'http://localhost:3000'
+export const server_url = 'https://projectfair-server-1-fdke.onrender.com'
 
 // https://projectfair-server-1-fdke.onrender.com/
